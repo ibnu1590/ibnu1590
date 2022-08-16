@@ -19,5 +19,4 @@
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnu1590&show_icons=true&locale=en&layout=compact" alt="ibnu1590" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ibnu1590&show_icons=true&locale=en" alt="ibnu1590" />
 </p>
